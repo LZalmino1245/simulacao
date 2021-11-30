@@ -1,0 +1,4 @@
+o que e uma brach ?
+ branch permite criar, listar, renomear e excluir ramificações. Ele não permite alternar entre as ramificações ou reunir um histórico bifurcado de novo
+o que merge?
+Todo developer que utiliza plataforma para compartilhar seu código-fonte, como o GitHub e o GitLab, já ouviu falar em o que é Merge Request.
